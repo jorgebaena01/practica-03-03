@@ -46,3 +46,4 @@ hourly_dataframe = pd.DataFrame(data = hourly_data)
 
 hourly_dataframe.to_csv('data/csv_clima.csv', index=False)
 #print("\nHourly data\n", hourly_dataframe)
+print( 'hola mundo')
